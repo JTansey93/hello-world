@@ -23,4 +23,4 @@ async def on_message(message):
         The NHS has some resources on clinical depression: https://www.nhs.uk/conditions/clinical-depression/ You can book a GP appointment to discuss your issues with a doctor.
         Remember to call someone if you feel a danger to yourself, or ring the Samaritans if it\'s really serious.''')
 
-client.run('NjQ0MjU0NjE0NjMxMzUwMjgz.XcxXCw.8yRQjVY6bUQWhyb1D0Fd3yw_Jxg')
+client.run('token')
