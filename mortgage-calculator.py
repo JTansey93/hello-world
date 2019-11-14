@@ -6,7 +6,7 @@ class MortgageCalculation:
         self.myframe.pack()
 
         PrincipleLabel = tk.Label(self.myframe, text='Principle')
-        InterestLabel = tk.Label(self.myframe, text='Interest Rate')
+        InterestLabel = tk.Label(self.myframe, text='Annual Interest Rate')
         YearsLabel = tk.Label(self.myframe, text='Years')
 
         self.e1 = tk.Entry(self.myframe)
